@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dueno-de-mi-vida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Dueño de mi vida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dueno-de-mi-vida/) |
+| **Get License** | [Commercial Licensing for Dueño de mi vida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dueno-de-mi-vida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, la disco está llena de gente, pero mi mirada te sigue a ti
+> Ese movimiento me vuela la mente, sabes que esta noche te vas junto a mí
+> Acércate un poco, no pierdas la vida, deja que el instinto te quite el estrés
+> Quiero ser el único dueño de tu vida, devorarte entera de la cabeza a los pies
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
