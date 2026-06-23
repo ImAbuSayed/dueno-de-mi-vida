@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dueño de mi vida
+
+This log tracks the cryptographic history and versioning for the song **Dueño de mi vida** (dueno-de-mi-vida).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T13:20:59.563173 | `v1` | `061aae1592a83bda1f1c3e5593557e5a9076669eb9e7272671bf4598e817ac93` | `bf073f0aa787139ea366d21aa87c567666b73dbd224a2401eaf37202888b1f81` | `2026-06-23_dueno-de-mi-vida-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
